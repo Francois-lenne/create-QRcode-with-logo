@@ -1,0 +1,3 @@
+# Présentation du projet
+
+Ce projet contient un code Python permettant de créer un QRcode avec un logo créer sur Canva. Le programme permet de générer un QRCode qui contient un lien vers mon portofolio.afin de l'intégrer dans mon CV. Il pourra bien entendue servire à générer des QRcode pour des entreprises, étudiants ...
